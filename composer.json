@@ -1,0 +1,15 @@
+{
+    "name": "m-akef/testpackage",
+    "authors": [
+        {
+            "name": "mohamed-akef",
+            "email": "medoakef@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src"
+        }
+    }
+}
